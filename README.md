@@ -4,7 +4,7 @@ You can see some of my work here or you can visit other links too
 
 - [GitLab](https://gitlab.com/kutiny)
 - [SelfHosted Git](https://git.alexaguirre.com.ar)
-- [Personal Page](https://alexaguirre.com.ar)w
+- [Personal Page](https://alexaguirre.com.ar)
 
 <!--
 **kutiny/kutiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
